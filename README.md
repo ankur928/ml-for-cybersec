@@ -1,5 +1,5 @@
 
-# Enhanced GNN for Robust Fake News Detection
+# Enhancing Resilience to Adversarial Attacks in Fake News Detection
 
 ## Overview
 This repository introduces an advanced Graph Neural Network (GNN) model implementation for fake news detection, emphasizing enhanced resilience against adversarial attacks through the integration of the Fast Gradient Sign Method (FGSM).
